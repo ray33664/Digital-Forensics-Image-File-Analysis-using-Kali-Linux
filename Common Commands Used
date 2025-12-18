@@ -1,0 +1,7 @@
+Common Commands Used
+cp ~/Downloads/sample.jpg evidence/
+md5sum evidence/sample.jpg
+sha1sum evidence/sample.jpg
+exiftool evidence/sample.jpg
+strings evidence/sample.jpg
+sudo autopsy

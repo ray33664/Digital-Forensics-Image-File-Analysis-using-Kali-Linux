@@ -1,0 +1,20 @@
+🔍 Observations
+
+The image files were successfully transferred to the evidence directory without modifying the original data.
+
+Hash values (MD5 and SHA-1) generated before and after analysis remained identical, confirming the integrity of the evidence.
+
+EXIF metadata extraction revealed important information such as file creation date, image dimensions, and device/software details.
+
+No GPS location data was found in the analyzed images, indicating either privacy settings or metadata removal.
+
+File type verification confirmed that the image files were genuine and not disguised as another file format.
+
+Hidden data analysis using string extraction did not reveal any suspicious or malicious content.
+
+Autopsy provided a clear forensic timeline and metadata view without detecting deleted or hidden files.
+
+The forensic tools operated without altering the evidence, adhering to proper digital forensic procedures.
+
+✅ Conclusion
+The Digital Forensics – Image & File Analysis project successfully demonstrated the use of Kali Linux forensic tools to analyze digital image and file evidence in a secure and ethical manner. The project highlighted the importance of maintaining evidence integrity through cryptographic hashing and proper handling techniques. Metadata extraction and forensic analysis provided valuable insights into file origin and modification history. Overall, this project enhanced practical understanding of real-world digital forensic investigation processes and reinforced the role of forensic tools in cybersecurity, cybercrime investigation, and incident response.
